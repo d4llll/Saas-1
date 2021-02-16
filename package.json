@@ -90,7 +90,7 @@
     "randomcolor": "^0.6.2",
     "twt": "^1.2.0",
     "snyk": "^1.387.0",
-    "systeminformation": "^4.27.3"
+    "systeminformation": "^5.3.1"
   },
   "files": [
     "setup"
